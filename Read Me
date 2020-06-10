@@ -1,0 +1,10 @@
+			BOOKSHOP PROJECT IN PYTHON
+
+
+
+- Here I Created A Bookshop Project using Python.
+- In this  we can manage the information of books
+  like bookname, authorname , year of publications , isbn number.
+- In this I add some CRUD Operations like insert, Update, Delete , search using SQLite Database .
+- To crate this project I used Tkinter python Module.
+
